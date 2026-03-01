@@ -1,3 +1,3 @@
-# It All Starts Here
+# Full Stack Engineer
 
-You may visit [Mirzada.krd](https://mirzada.krd/)
+My Portfolio [Mirzada.krd](https://mirzada.krd/)
